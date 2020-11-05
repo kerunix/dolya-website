@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: 'Glitch-Inside';
+  font-weight: 400;
+  src: url('../fonts/Glitch-Inside.otf');
+};
