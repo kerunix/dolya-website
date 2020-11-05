@@ -8,7 +8,8 @@
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "lint": "yarn lint:js"
+    "lint": "yarn lint:js",
+    "deploy": "gh-pages -d dist"
   },
   "lint-staged": {
     "*.{js,vue}": "eslint"
@@ -30,6 +31,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^7.10.0",
     "eslint-plugin-nuxt": "^1.0.0",
+    "gh-pages": "^3.1.0",
     "husky": "^4.3.0",
     "lint-staged": "^10.4.0",
     "sass": "^1.29.0",
