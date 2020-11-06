@@ -1,17 +1,17 @@
 <template>
-  <div id="home">
+  <div id="home" class="bg-black text-gray-200">
     <TheNavbar />
     <TheHero />
-    <TheSection class=" bg-black text-gray-200">
+    <TheSection>
       <NewEP />
     </TheSection>
-    <TheSection id="bio" class=" bg-black text-gray-200">
+    <TheSection id="bio">
       <Biography />
     </TheSection>
-    <TheSection id="videos" class=" bg-black text-gray-200">
+    <TheSection id="videos">
       <Videos />
     </TheSection>
-    <TheSection id="videos" class=" bg-black text-gray-200">
+    <TheSection id="contact">
       <Contact />
     </TheSection>
   </div>

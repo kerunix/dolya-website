@@ -1,10 +1,6 @@
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
-  router: {
-    base: '/dolya-website/'
-  },
-
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'dolya',
@@ -50,18 +46,4 @@ export default {
   build: {
   }
 
-  // Smooth scrolling
-  // router: {
-  //   scrollBehavior (to) {
-  //     if (process.client) {
-  //       if (to.hash) {
-  //         return window.scrollTo({
-  //           top: document.querySelector(to.hash).offsetTop + window.innerHeight,
-  //           behavior: 'smooth'
-  //         })
-  //       }
-  //       return window.scrollTo({ top: 0, behavior: 'smooth' })
-  //     }
-  //   }
-  // }
 }
