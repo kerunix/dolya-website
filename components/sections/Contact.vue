@@ -1,6 +1,6 @@
 <template>
-  <div class="py-20 w-1/2 flex flex-col justify-center items-center space-y-10">
-    <h1 class="font-bold text-3xl uppercase tracking-widest text-teal-300 mb-6">
+  <div class="py-20 w-full md:w-1/2 flex flex-col justify-center items-center space-y-10 px-10">
+    <h1 class="font-bold text-xl md:text-3xl text-center md:text-left uppercase tracking-widest text-teal-300 mb-6">
       Contact/Managment
     </h1>
     <span> +33 674 595 011</span>

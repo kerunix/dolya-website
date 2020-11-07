@@ -1,7 +1,7 @@
 <template>
   <div class="py-40 img-background w-full min-h-full">
     <div class="flex flex-col justify-center items-center h-full">
-      <p class="text-6xl select-none text-center">
+      <p class="text-5xl md:text-6xl select-none text-center">
         <span class="font-thin glitch" data-glitch="LOST">
           LOST
         </span>
