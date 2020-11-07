@@ -3,11 +3,15 @@ export default {
   target: 'static',
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'dolya',
+    title: 'Dolya Music',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      { hid: 'description', name: 'description', content: '' },
+      { property: 'og:title', content: 'Dolya Music - A 4 man band, instrumental, resolutely prog, at the crossroads of synth-wave, ambient and industrial metal.' },
+      { property: 'og:type', content: 'website' },
+      { property: 'og:image', content: '~/assets/img/logo.png' },
+      { property: 'og:url', content: 'https://jovial-brahmagupta-7427b9.netlify.app' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
