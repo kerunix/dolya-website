@@ -14,6 +14,7 @@
     <TheSection id="contact">
       <Contact />
     </TheSection>
+    <TheFooter />
   </div>
 </template>
 
@@ -25,6 +26,7 @@ import NewEP from '~/components/sections/NewEP'
 import Biography from '~/components/sections/Biography'
 import Videos from '~/components/sections/Videos'
 import Contact from '~/components/sections/Contact'
+import TheFooter from '~/components/layout/TheFooter'
 
 export default {
   components: {
@@ -34,7 +36,8 @@ export default {
     NewEP,
     Biography,
     Videos,
-    Contact
+    Contact,
+    TheFooter
   }
 }
 </script>
