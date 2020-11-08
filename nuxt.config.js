@@ -10,7 +10,7 @@ export default {
       { hid: 'description', name: 'description', content: '' },
       { property: 'og:title', content: 'Dolya Music - A 4 man band, instrumental, resolutely prog, at the crossroads of synth-wave, ambient and industrial metal.' },
       { property: 'og:type', content: 'website' },
-      { property: 'og:image', content: '~/assets/img/logo.png' },
+      { property: 'og:image', content: 'https://jovial-brahmagupta-7427b9.netlify.app/_nuxt/img/dolya-2.da4f867.jpg' },
       { property: 'og:url', content: 'https://jovial-brahmagupta-7427b9.netlify.app' }
     ],
     link: [
