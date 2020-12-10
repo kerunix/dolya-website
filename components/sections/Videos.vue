@@ -4,8 +4,9 @@
       Videos
     </h1>
     <div class="flex flex-col md:flex-row justify-around space-y-16 md:space-y-0 md:space-x-16">
-      <TheYoutube video-id="CBDYlllY1Zo" />
       <TheYoutube video-id="U0HimHlz_-c" />
+      <TheYoutube video-id="XSb5hT-QLno" />
+      <TheYoutube video-id="km-W1bTd-No" />
     </div>
   </div>
 </template>
