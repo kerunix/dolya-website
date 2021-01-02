@@ -46,9 +46,7 @@ export default {
 
   i18n: {
     detectBrowserLanguage: {
-      useCookie: true,
-      cookieKey: 'i18n_redirected',
-      onlyOnRoot: true
+      useCookie: false
     },
     vueI18n: {
       fallbackLocale: 'fr'
