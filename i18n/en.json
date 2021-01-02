@@ -1,0 +1,13 @@
+{
+  "nav": {
+    "home": "home",
+    "bio": "about",
+    "videos": "videos",
+    "contact": "contact"
+  },
+  "biography": {
+    "about": "About Dolya",
+    "one": "Born from the reunion of Fabrice (drums) and Jaufré (bass), and the meeting with Florent (keyboard) and JB (guitar), the group Dolya has created a universe of its own: instrumental, resolutely prog, at the crossroads of synth-wave, ambient and industrial metal.",
+    "two": "The group’s 1st Ep, recorded at Studio Waïti in Toulouse by Yannick Tournier in June 2020, will give a first glimpse of the group’s universe. In spring 2021, Dolya plans to return to the studio for the recording of her first album."
+  }
+}
